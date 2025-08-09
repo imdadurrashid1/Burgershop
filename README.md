@@ -161,7 +161,7 @@ Access the admin panel at: `http://localhost:3000/admin`
 ### Backend (Railway)
 1. Create a new project in Railway
 2. Connect your GitHub repository
-3. Add a PostgreSQL database
+3. Add a  database MongoBd
 4. Set up environment variables
 5. Deploy
 
