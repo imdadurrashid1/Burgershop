@@ -59,7 +59,7 @@ A modern, responsive burger shop website with online ordering system, admin dash
 
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla), Chart.js
 - **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL
+- **Database**:MongoBd
 - **Authentication**: JWT (JSON Web Tokens)
 - **Payment**: Stripe Integration
 - **Deployment**: GitHub, Vercel (Frontend), Railway (Backend)
@@ -181,8 +181,4 @@ API documentation is available at `/api-docs` when running in development mode.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-- **Email**: support@imdadurburger.com
-- **GitHub**: [@saimul380](https://github.com/saimul380)
-- **Project Link**: [https://github.com/saimul380/Imdadur_Burger_Shop](https://github.com/saimul380/Imdadur_Burger_Shop)
